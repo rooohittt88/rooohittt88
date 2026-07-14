@@ -6,6 +6,7 @@ I am currently working on a platform for Hunting Cafes in a city<br>I am looking
   <img alt="GitHub Contribution Snake Animation" src="https://githubusercontent.com">
 </picture>
 
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rooohittt69) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rohitsharma69)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sharmaixbrohit@gmail.com) 
 

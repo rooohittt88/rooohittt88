@@ -1,6 +1,10 @@
 # About Me:
 I am currently working on a platform for Hunting Cafes in a city<br>I am looking to collabrate on full stack web apps<br>Looking for help with learning modern UI interface building<br>Currently learning Data Structures And Algorithms
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com">
+  <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com">
+  <img alt="GitHub Contribution Snake Animation" src="https://githubusercontent.com">
+</picture>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rooohittt69) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rohitsharma69)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sharmaixbrohit@gmail.com) 
